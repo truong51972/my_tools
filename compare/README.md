@@ -1,0 +1,3 @@
+- Copy "compare.py" to your source folder.
+- Run
+- Check ".requirements_comparison.txt"
